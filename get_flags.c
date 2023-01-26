@@ -38,19 +38,6 @@ int get_flags(const char *format, int *i)
         return (flags);
 }
 
-
-
-
-=========================================
-
-
-
-
-get_precision.c CODE
-
-
-
-
 #include "main.h"
 
 
